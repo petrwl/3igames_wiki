@@ -1,7 +1,7 @@
 
-## Mini Wiki
+# Mini Wiki
 
-# Установка 
+## Установка 
 
 * git clone [repo]
 * composer install 
